@@ -9,7 +9,7 @@ More such devices will then be linked to create an IoT cluster.
 
 
 # Video Link
-Fore more info about this project you can visit our website [here]{https://www.ivlabs.in/anti-theft-device.html} or watch video [here]{https://www.youtube.com/watch?v=OAh9_cihmhc}
+Fore more info about this project you can visit our website [here](https://www.ivlabs.in/anti-theft-device.html) or watch video [here](https://www.youtube.com/watch?v=OAh9_cihmhc)
 
 
 ## Project Members
@@ -19,4 +19,4 @@ Fore more info about this project you can visit our website [here]{https://www.i
 4. Mayuresh Sarode
 5. Abhiraj Singh Rajput
 
-We like to thanks [IvLabs]{https://www.ivlabs.in/} for giving us such a oppurturnity to work under some great mentors
+We like to thanks [IvLabs](https://www.ivlabs.in/) for giving us such a oppurturnity to work under some great mentors
